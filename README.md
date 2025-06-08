@@ -63,3 +63,10 @@ The JavaScript code adds interactivity to the website.
    * Event listeners are attached to the fa-bars (hamburger) and fa-times (close) icons to call showMenu() and hideMenu() respectively.
 In summary, this code provides a foundational e-learning platform with multiple content pages, a responsive navigation system, dynamic course content display, and visual progress tracking
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/bc743fa8-2e8e-458c-aafc-855e4a4c3ce2)
+![Image](https://github.com/user-attachments/assets/35893e49-86c7-43cd-b378-b5cfc59e1423)
+![Image](https://github.com/user-attachments/assets/1e412268-6ba5-4f45-a8d7-32e7fa5935f2)
+![Image](https://github.com/user-attachments/assets/39081d51-ce60-45b7-a560-a7ff00f3214f)
+![Image](https://github.com/user-attachments/assets/20bde3f5-285b-4b6c-8cbf-61dc9d195b83)
